@@ -1,4 +1,4 @@
-print("BYE WORLD")
-print("TEST INIT")
-print("TEST INIT 2")
-print("TEST INIT FROM MOBILE")
+def addition(a,b):
+  return a+b
+
+print(addition(7,1))
