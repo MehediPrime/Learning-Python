@@ -1,4 +1,5 @@
-def addition(a,b):
-  return a+b
+def addition(a, b):
+  return a + b
 
-print(addition(7,1))
+
+print(addition(7, 1))
